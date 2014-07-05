@@ -3,7 +3,7 @@
  * Plugin Name: 3D Roll Over Links
  * Plugin URI: http://www.richzendy.org/wordpress-plugins/3d-roll-over-links
  * Description: This plugin provides 3D roll over efect over links in to your post content
- * Version: 0.1.1
+ * Version: 0.1.2
  * Author: Richzendy
  * Author URI: http://www.richzendy.org
  * License: GPLv3
