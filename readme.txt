@@ -3,8 +3,8 @@ Contributors: Richzendy
 Tags: 3d roll over, roll, over, links, content, content post, 3D roll over, 3D roll over link
 Donate link: http://www.richzendy.org/en/donaciones
 Requires at least: 3.0
-Tested up to: 3.8.2
-Stable tag: 0.1.1
+Tested up to: 3.9.1
+Stable tag: 0.1.2
 License: GPL3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -32,6 +32,8 @@ It is my first plugin, works for me, but in your enviroment can't work, if you c
 
 == Changelog ==
 
+= 0.1.2 =
+* Avoid do roll over on images - thank you bradkgriffin for report that
 = 0.1.1 =
 * Use jquery provided by WordPress core and all unused javascripts are removed.
 = 0.1 = 

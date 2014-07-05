@@ -117,7 +117,7 @@ function linkify( selector ) {
 
         for( var i = 0, len = nodes.length; i < len; i++ ) {
             var node = nodes[i];
-	    var sibling = node.nextSibling;
+	    var sibling = node.firstChild;
 	    if(sibling.nodeName != "IMG"){
              if( !node.className || !node.className.match( /roll/g ) ) {
                 node.className += \' roll\';
